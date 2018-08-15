@@ -1,3 +1,4 @@
+#importing essential libraries
 import pygame
 import time
 import random
@@ -11,6 +12,7 @@ pygame.mixer.music.load("race.wav")
 display_width=800
 display_height=600
 
+#defining colour(RGB) values
 black=(0,0,0)
 white=(255,255,255)
 red=(200,0,0)
@@ -22,7 +24,7 @@ bright_green=(0,255,0)
 
 car_width=100
 
-pause=False
+pause=False   #boolean Value to update further
 
 
 gameDisplay=pygame.display.set_mode((display_width,display_height))
