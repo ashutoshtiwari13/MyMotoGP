@@ -1,5 +1,5 @@
 # Moto GP #
-A simple 2D game developed using py-game with all basic operations of pausing ,resuming and exiting! It calculates the score of the number of incoming obstracles dodged.
+A simple 2 Dimensional game developed using py-game with all basic operations of pausing ,resuming and exiting! It calculates the score of the number of incoming obstracles dodged.
 And in case if You feel that is Easy to play ! Hang On , you might get busted very soon!
 
 # Installation #
