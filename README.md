@@ -6,7 +6,7 @@ And in case if You feel that is Easy to play !!! Hang On , you might get busted 
 
 * Python 3.4 or above Installed
 * Clone the repository using git clone https://github.com/ashutoshtiwari13/MyMotoGP.git
-* Run pip install -r requirements.txt
+* run pip install -r requirements.txt
 
 # Running the Game #
 > python MyCarGame.py
