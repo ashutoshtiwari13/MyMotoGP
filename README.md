@@ -8,7 +8,7 @@ And in case if You feel that is Easy to play !!! Hang On , you might get busted 
 * Clone the repository using git clone https://github.com/ashutoshtiwari13/MyMotoGP.git
 * run pip install -r requirements.txt
 
-# Running the Game #
+# Running the Game 
 > python MyCarGame.py
 
 
