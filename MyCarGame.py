@@ -55,15 +55,8 @@ def button(msg,x,y,w,h,ic,ac,action=None):
         pygame.draw.rect(gameDisplay,ac,(x,y,w,h))
         if click[0]==1 and action!=None:
             action()
-
-
-
-            # if action=="play":
-            #     game_loop()
-            # elif action=="Quit":
-            #     pygame.quit()
-
-
+            
+    #try another shape move
     else:
         pygame.draw.rect(gameDisplay,ic,(x,y,w,h))
 
