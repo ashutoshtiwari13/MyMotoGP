@@ -183,7 +183,7 @@ def game_intro():
 def  game_loop():
     global pause
 
-    pygame.mixer.music.play(-1)   #-1 for infinite loop
+    pygame.mixer.music.play(-1)   
 
 
     x=(display_width *0.45)
