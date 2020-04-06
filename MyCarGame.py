@@ -1,4 +1,3 @@
-#importing essential libraries
 import pygame
 import time
 import random
